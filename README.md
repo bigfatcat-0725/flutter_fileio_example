@@ -1,3 +1,4 @@
 # flutter_fileio_example
 
 path_provider
+shared_preferences
